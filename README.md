@@ -1,8 +1,6 @@
 ## Hi I'm Azhar Xplo 👋
 
 
-![Azhar Xplo](https://www.bing.com/images/search?view=detailV2&ccid=EK%2bq%2fDfZ&id=1AC0A5DF50162CEFDA20EAC57A4216166B016CD4&thid=OIP.EK-q_DfZhvsHZ7fN7XFPRQHaHa&mediaurl=https%3a%2f%2fmedia.tenor.com%2fdeTWnFQCqccAAAAC%2fanime-keren.gif&exph=498&expw=498&q=gif+anime+keren&simid=608006729821073188&FORM=IRPRST&ck=6F2E39B7940D09B8680CC689ABEA2371&selectedIndex=0&itb=0) 
-
 <!--
 **azharxd/azharxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anime Dance](https://media4.giphy.com/media/10YWqUivkQPeeJWD3u/giphy.gif?cid=6c09b952kao5bh6nbs4pfy9zh0g3tslncd57dhyjpxap7dmh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
