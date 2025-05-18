@@ -1,6 +1,8 @@
-### Hi I'm Azhar Xplo 👋
+## Hi I'm Azhar Xplo 👋
 
-### Technologies 💻
+![Anime Dance](https://media4.giphy.com/media/10YWqUivkQPeeJWD3u/giphy.gif?cid=6c09b952kao5bh6nbs4pfy9zh0g3tslncd57dhyjpxap7dmh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
+
+## TECHNOLOGIES 💻
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img
@@ -85,4 +87,4 @@
 </p>
 
 ####
-![Anime Dance](https://media4.giphy.com/media/10YWqUivkQPeeJWD3u/giphy.gif?cid=6c09b952kao5bh6nbs4pfy9zh0g3tslncd57dhyjpxap7dmh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) 
+
